@@ -3,15 +3,15 @@
 ## Setting up a PBI Dataflow
 
 - [ ] Created a custom workspace in **PBI Service**.
-- [ ] Set up a new sample datasource or connect to an existing one.  In my case, I spun up an Azure SQL Database and use the sample AdventureWorks database. 
+- [ ] Created a sample datasource - in my case, I spun up an Azure SQL Database and used the sample AdventureWorks database. 
 - [ ] In PBI Service, used **Get Data** to connect to the my datasource and selected a few sample tables.
-- [ ] Transformed the data using the Power query editor, e.g. 
+- [ ] Transformed the data using the Power Query Editor. 
     - [ ] Merged queries
     - [ ] Added/Removed/Renamed Columns
     - [ ] Disabled Load of Tables
     - [ ] Aggregated data
-- [ ] Perform an on-demand refresh
-- [ ] Refresh based on a schedule
+- [ ] Performed an on-demand refresh
+- [ ] Refreshed based on a schedule
 - [ ] Used **Get Data** from **PBI Desktop** to connect this dataflow from the customer workspace to product reports.
 
 ## Configure PBI Workspace to access Azure Data Lake Storage (ADLS)
