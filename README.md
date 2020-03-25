@@ -1,4 +1,4 @@
-# ADF vs Power BI dataflows
+# ADF vs Power BI Dataflows
 
 ## Setting up a PBI Dataflow
 
